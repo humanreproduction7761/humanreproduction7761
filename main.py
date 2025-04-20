@@ -50,7 +50,7 @@ LOG = logging.getLogger(__name__)
 premium_data = {}
 
 # Define the owner ID
-owner_id = 5128979564
+owner_id = 8144269730
 
 # Initialize bot with environment variables
 bot = Client(
